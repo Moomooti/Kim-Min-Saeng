@@ -1,7 +1,7 @@
 
 ## 📁 프로젝트 폴더 구조
 
-<details> <pre> ``` KIMMIMSAENG/ └── crawler/ └── DB/ ├── kimminsaeng.db ├── raw_results.sqlite ├── keywords.txt ├── naver_crawler.py └── seoul_food.py ``` </pre> </details>
+ <pre> KIMMIMSAENG/ └── crawler/ └── DB/ ├── kimminsaeng.db ├── raw_results.sqlite ├── keywords.txt ├── naver_crawler.py └── seoul_food.py </pre> 
 
 ## 📄 파일/폴더별 설명
 
