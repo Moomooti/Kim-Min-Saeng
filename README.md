@@ -1,6 +1,6 @@
 
 ## 📁 프로젝트 폴더 구조
-
+"""
  KIMMIMSAENG/
 └── crawler/
 └── DB/
@@ -9,6 +9,7 @@
 ├── keywords.txt
 ├── naver_crawler.py
 └── seoul_food.py
+"""
 
 ## 📄 파일/폴더별 설명
 
