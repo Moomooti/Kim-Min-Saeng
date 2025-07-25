@@ -1,14 +1,7 @@
 
 ## 📁 프로젝트 폴더 구조
 
-KIMMIMSAENG/
-└── crawler/
-    └── DB/
-        ├── kimminsaeng.db
-        ├── raw_results.sqlite
-        ├── keywords.txt
-        ├── naver_crawler.py
-        └── seoul_food.py
+<details> <pre> ``` KIMMIMSAENG/ └── crawler/ └── DB/ ├── kimminsaeng.db ├── raw_results.sqlite ├── keywords.txt ├── naver_crawler.py └── seoul_food.py ``` </pre> </details>
 
 ## 📄 파일/폴더별 설명
 
